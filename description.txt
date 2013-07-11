@@ -1,0 +1,6 @@
+Shop Finder TYPO3 Extension
+Is the Google map Feateur that we intergrate with TYPO3 V6.1
+This Extension Provide Some Feateur:
+1- Find a shop on Google that in the Specifice location
+2- Each Shop have that own icon and Location
+3- Cluster Feature of Google map
